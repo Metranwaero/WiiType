@@ -12,5 +12,5 @@ Its visual interface is inspired by 1990s BIOS menus.
 1. Download **WiiType 1.0.0** from the [Releases](../../releases) section.
 2. Extract the folder from the ZIP archive.
 3. Move the WiiType folder to the apps folder on your SD card.
-Recommendation: If the Homebrew Channel is not installed on your Nintendo Wii, you can get it from the [**official Homebrew Channel website.**] (https://hbc.hackmii.com/)
+Recommendation: If the Homebrew Channel is not installed on your Nintendo Wii, you can get it from the [official Homebrew Channel website](https://hbc.hackmii.com/)
   
