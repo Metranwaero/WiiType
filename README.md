@@ -14,4 +14,8 @@ Its visual interface is inspired by 1990s BIOS menus.
 3. Move the WiiType folder to the apps folder on your SD card.
    
 Recommendation: If the Homebrew Channel is not installed on your Nintendo Wii, you can get it from the [official Homebrew Channel website](https://hbc.hackmii.com/)
+
+# Controls
+(A)  — Confirm / Execute Action
+[B]  — Return to Main Menu
   
