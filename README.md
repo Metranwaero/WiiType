@@ -17,5 +17,6 @@ Recommendation: If the Homebrew Channel is not installed on your Nintendo Wii, y
 
 # Controls
 (A)  — Confirm / Execute Action
+
 [B]  — Return to Main Menu
   
